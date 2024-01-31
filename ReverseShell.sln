@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseShell", "ReverseShell\ReverseShell.csproj", "{BADDEE5F-B635-406E-9232-737335497BEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseShellServer", "ReverseShellServer\ReverseShellServer.csproj", "{A73BA390-3319-4E86-AA0B-638964785486}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{BADDEE5F-B635-406E-9232-737335497BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BADDEE5F-B635-406E-9232-737335497BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BADDEE5F-B635-406E-9232-737335497BEE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A73BA390-3319-4E86-AA0B-638964785486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A73BA390-3319-4E86-AA0B-638964785486}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A73BA390-3319-4E86-AA0B-638964785486}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A73BA390-3319-4E86-AA0B-638964785486}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
